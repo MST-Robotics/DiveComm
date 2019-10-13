@@ -1,0 +1,1 @@
+void sendPage(string data);
